@@ -1,4 +1,4 @@
-# Tokenmaster
+# Banshee
 
 ## Technology Stack & Tools
 
