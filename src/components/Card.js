@@ -25,7 +25,7 @@ const Card = ({ occasion, toggle, setToggle, setOccasion }) => {
           <strong>
             {ethers.utils.formatUnits(occasion.cost.toString(), 'ether')}
           </strong>
-          ETH
+          PEARL
         </p>
 
         {occasion.tickets.toString() === "0" ? (
