@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/utils/Counters.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
 
-//EIP 2981 Royality contract for Banshee example
+//Royality contract for Banshee example
 contract SongNft is ERC721Royalty, Ownable {
   using Counters for Counters.Counter;
 
